@@ -35,3 +35,5 @@ dan `Silinder`. Saat `printInfo()` dipanggil, yang dijalankan adalah
 versi milik objek aslinya.
 
 ## Screenshot Hasil
+<img width="546" height="418" alt="Image" src="https://github.com/user-attachments/assets/3592a351-602f-4934-9fc1-05be2c776ddb" />
+<img width="681" height="396" alt="Image" src="https://github.com/user-attachments/assets/e6c26f6b-17f3-4734-a0c1-38945cb11b0e" />
